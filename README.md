@@ -20,8 +20,8 @@
 -	https://wallpaperaccess.com/full/1745055.jpg (Stars.jpg)
 
 ## Screenshots
-<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/cea05586-38fd-444f-b1c3-9617ed9d9aac"  width="50%" height="50%">
-<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/248d07c8-7081-43e0-a375-a013c30c4cfe"  width="50%" height="50%">
-<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/b4d0eeb8-ee49-45e5-8031-12de64d14f5d"  width="50%" height="50%">
-<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/60764890-649d-441f-b4f7-4145460f6d0a"  width="50%" height="50%">
-<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/7decc657-51a1-4719-9fc1-b1fb0ae6036e"  width="50%" height="50%">
+<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/cea05586-38fd-444f-b1c3-9617ed9d9aac">
+<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/248d07c8-7081-43e0-a375-a013c30c4cfe">
+<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/b4d0eeb8-ee49-45e5-8031-12de64d14f5d">
+<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/60764890-649d-441f-b4f7-4145460f6d0a">
+<img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/7decc657-51a1-4719-9fc1-b1fb0ae6036e">
