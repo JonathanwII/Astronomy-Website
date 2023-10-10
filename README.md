@@ -1,4 +1,4 @@
-# Astronomy Website
+# Human Computer Interaction Individual Project: Astronomy Website
 
 ## Screenshots
 <img src="https://github.com/JonathanwII/Astronomy-Website/assets/130579465/cea05586-38fd-444f-b1c3-9617ed9d9aac">
