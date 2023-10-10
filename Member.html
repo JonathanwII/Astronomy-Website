@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <a href="Home.html" class="logo">
+      <img src="Arts/Journey Logo.png" alt="" class="logo">
+    </a>
+    <nav class="navbar">
+      <a href="Home.html">Home</a>
+      <a href="Space.html">Space</a>
+      <a href="Member.html"class="open">Member</a>
+    </nav>
+  </header>
+
+  <section class="form">
+    <div class="form-container">
+      <h1>Membership</h1>            
+      <p>Join our membership and get the latest updates</p>
+      <form onSubmit=formSubmit(event)>
+        <div class="form-box">
+          <span class="details">Name</span>
+          <input class="text-box" type="text" id="nama">
+          <div id="errorname" class="alert"></div>
+        </div>
+
+        <div class="form-box">
+          <span class="details">Address</span>
+          <input class="text-box" type="text" id="address">
+          <div id="erroraddress" class="alert"></div>
+        </div>
+        
+        <div class="form-box">
+          <span class="details">Gender</span>
+          <input class="text-box" type="text" id="gender">
+          <div id="errorgender" class="alert"></div>
+        </div>        
+        
+        <div class="form-box">
+          <span class="details">Email</span>
+          <input class="text-box" type="text" id="email">
+          <div id="erroremail" class="alert"></div>
+        </div>
+        
+        <div class="form-box">
+          <span class="details">Phone Number</span>
+          <input class="text-box" type="text" id="phone">
+          <div id="errorphone" class="alert"></div>
+        </div>
+
+        <div class="daily">
+          <input type="checkbox" class="check-box" id="checkBox"> 
+          <a class="check-box">Get daily newsletter</a>
+        </div>
+        
+        <div class="buttons">
+          <button type="button" class="send" id="click" onclick="validateForm()">Send
+          </button>
+        </div>            
+      </form>
+    </div>     
+  </section>
+
+  <!-- Footer -->
+  <div class="footer-container">
+    <a href="#" class="logo">
+      <img src="Arts/Journey Logo.png" alt="" class="logo">
+    </a>
+    <nav class="navbar"></nav>
+    <div class="footer">
+      <div class="footer-box">
+        <h1>Explore</h1>
+        <a href="Home.html">Home</a>
+        <a href="Space.html">Space</a>
+        <a href="Member.html">Member</a>
+      </div>
+      <div class="footer-box">
+        <h1>Planets</h1>
+        <a href="Space.html#mercury">Mercury</a>
+        <a href="Space.html#venus">Venus</a>
+        <a href="Space.html#earth">Earth</a>
+        <a href="Space.html#mars">Mars</a>
+        <a href="Space.html#jupiter">Jupiter</a>
+        <a href="Space.html#saturn">Saturn</a>
+        <a href="Space.html#uranus">Uranus</a>
+        <a href="Space.html#neptune">Neptune</a>
+      </div>
+      <div class="footer-box">
+        <h1>Contact Us</h1>
+        <div class="contact">journey.space@gmail.com</div>
+        <div class="contact">+62 81256473829</div>
+        <div class="contact">Jakarta, Indonesia</div>
+      </div>
+      <div class="footer-box-right">
+        <h1>Our Socials</h1>
+        <a href="https://web.facebook.com/universitasbinanusantara/?_rdc=1&_rdr">
+          <img src="Arts/facebook.png" alt="" class="icon">
+        </a>
+        <a href="https://www.instagram.com/binusuniversityofficial/">
+          <img src="Arts/instagram.png" alt="" class="icon">
+        </a>
+        <a href="https://twitter.com/BINUS_UNIV?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+          <img src="Arts/twitter.png" alt="" class="icon">
+        </a>     
+      </div>
+    </div>
+  </div>  
+</body>
+<script src="member.js"></script>
+</html>
